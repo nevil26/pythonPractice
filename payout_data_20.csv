@@ -1,0 +1,21 @@
+Employee_ID,Name,Department,Sales,Target,Commission_rate,Tax_rate,Region,Joining_Date,Status
+1001,Arjun Kumar,Sales,268000,150000,0.06,0.10,North,2019-08-17,Active
+1002,Meena Reddy,Finance,90000,120000,0.05,0.10,South,2016-04-07,On Probation
+1003,Ravi Nair,Marketing,210000,180000,0.07,0.10,East,2020-02-11,Active
+1004,Rajesh Shah,IT,175000,140000,0.05,0.10,West,2022-12-02,Active
+1005,Priya Das,HR,125000,100000,0.04,0.10,Central,2017-06-29,Active
+1006,Anil Kumar,Finance,150000,140000,0.05,0.10,South,2018-09-12,Active
+1007,Sneha Sharma,Sales,185000,160000,0.06,0.10,North,2015-11-21,Active
+1008,Deepak Joshi,IT,135000,130000,0.05,0.10,West,2019-05-16,On Probation
+1009,Kavita Patel,Marketing,110000,115000,0.04,0.10,East,2020-07-08,Active
+1010,Manish Singh,Sales,200000,170000,0.07,0.10,North,2016-06-25,Active
+1011,Radhika Nair,HR,130000,120000,0.05,0.10,Central,2018-02-14,Active
+1012,Sameer Khan,Finance,190000,160000,0.06,0.10,South,2017-08-20,Active
+1013,Neha Gupta,Sales,140000,135000,0.05,0.10,North,2021-01-29,Active
+1014,Ajay Mehta,Marketing,120000,110000,0.04,0.10,East,2019-10-05,Active
+1015,Sunita Rao,IT,170000,150000,0.06,0.10,West,2018-12-22,On Probation
+1016,Vikram Desai,Sales,155000,140000,0.05,0.10,North,2017-03-13,Active
+1017,Meera Joshi,HR,115000,105000,0.04,0.10,Central,2020-09-30,Active
+1018,Harish Kumar,Finance,165000,150000,0.05,0.10,South,2016-04-03,Active
+1019,Pooja Sharma,Marketing,175000,160000,0.06,0.10,East,2019-11-14,Active
+1020,Ankit Patel,IT,145000,130000,0.05,0.10,West,2021-07-19,Active

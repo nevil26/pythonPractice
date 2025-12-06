@@ -1,0 +1,21 @@
+Employee_ID,Name,Gross_Payout,Tax,Net_Payout
+1001,Arjun Kumar,8260.0,826.0,7434.0
+1002,Meena Reddy,0,0.0,0.0
+1003,Ravi Nair,2100.0,210.0,1890.0
+1004,Rajesh Shah,2450.0,245.0,2205.0
+1005,Priya Das,1250.0,125.0,1125.0
+1006,Anil Kumar,700.0,70.0,630.0
+1007,Sneha Sharma,1750.0,175.0,1575.0
+1008,Deepak Joshi,250.0,25.0,225.0
+1009,Kavita Patel,0,0.0,0.0
+1010,Manish Singh,2100.0,210.0,1890.0
+1011,Radhika Nair,500.0,50.0,450.0
+1012,Sameer Khan,2100.0,210.0,1890.0
+1013,Neha Gupta,250.0,25.0,225.0
+1014,Ajay Mehta,500.0,50.0,450.0
+1015,Sunita Rao,1400.0,140.0,1260.0
+1016,Vikram Desai,1050.0,105.0,945.0
+1017,Meera Joshi,500.0,50.0,450.0
+1018,Harish Kumar,1050.0,105.0,945.0
+1019,Pooja Sharma,1050.0,105.0,945.0
+1020,Ankit Patel,750.0,75.0,675.0
